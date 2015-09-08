@@ -12,3 +12,8 @@ sm_sar_dogtag_distance - Distance a player must be to pickup the dogtag
 
 # Commands
 sm_spawn <#userid|name> will respawn the player you need ADMFLAG_ROOT (or z) to use this. 
+
+
+# Installation
+
+Just drag and drop the csgo_sar.smx in /addons/sourcemod/plugins folder
