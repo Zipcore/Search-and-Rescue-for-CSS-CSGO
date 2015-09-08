@@ -5,7 +5,9 @@ Dogtags when they die which can either be picked up by Allies which allows them 
 
 # ConVars
 sm_sar_version - Version of the Search and Rescue Plugin
+
 sm_sar_dogtag_time - Time in seconds an ally can be respawned
+
 sm_sar_dogtag_distance - Distance a player must be to pickup the dogtag
 
 # Commands
