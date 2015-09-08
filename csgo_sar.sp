@@ -31,8 +31,6 @@ public Plugin myinfo =
 
 #include "Commands/Command_Spawn.sp"
 
-#include "Events/Event_BombDropped.sp"
-#include "Events/Event_BombPickup.sp"
 #include "Events/Event_PlayerDeath.sp"
 #include "Events/Event_RoundEnd.sp"
 
