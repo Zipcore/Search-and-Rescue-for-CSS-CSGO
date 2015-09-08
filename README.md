@@ -1,4 +1,4 @@
-# Search-and-Rescue-for-CSS-CSGO
+# Search and Rescue for CSS CSGO
 This is basically normal defuse mode except that players leave
 Dogtags when they die which can either be picked up by Allies which allows them to respawn or Enemies who then cannot respawn until the round ends. Its RECOMMENDED to play this mode on de_ maps. Also recommended to alter the mp_roundtime cvar.
 
@@ -17,3 +17,7 @@ sm_spawn <#userid|name> will respawn the player you need ADMFLAG_ROOT (or z) to 
 # Installation
 
 Just drag and drop the csgo_sar.smx in /addons/sourcemod/plugins folder
+
+SMX File can be found here.
+
+https://forums.alliedmods.net/showthread.php?t=271238
